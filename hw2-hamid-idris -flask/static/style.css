@@ -1,0 +1,23 @@
+.gallery1 {
+  max-width: 900px;
+  display: grid;
+  margin: 0 auto;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 10px;
+}
+
+h3 {
+  font-weight: normal;
+  text-transform: uppercase;
+  font-family: "Oswald", sans-serif;
+  text-align: center;
+}
+
+.gallery1 img {
+  width: 100%;
+}
+
+.gallery1 img:hover {
+  opacity: 0.7;
+  transform: scale(0.98);
+}
