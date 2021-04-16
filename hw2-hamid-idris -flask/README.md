@@ -1,12 +1,11 @@
-### Home Work 1
+### Home Work 2
 
-This is an image gallery made by CSS grid
+Image gallery made by CSS grid hosted by Flask 
+
+**how it works**
+Run the python file named *hw2.py*
+copy the host link **172.0.0.1:5000** to your browser 
 
 ## Tools
-
-Editor: **Visual Studio Code with**
-
-Extensions:
-**Emmet extension** (helps you to write html and provides you suggestions)
-
-**Live Server** also another extension for Visual Studio Code helps to see any changes lively in your browser.
+*command promot*
+*Notepad++*
