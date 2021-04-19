@@ -1,0 +1,19 @@
+categories:
+- chat
+chat:
+- - Hello
+  - Hi!
+- - How are you? 
+  - Fine, and you?
+- - Fine too! are you human?
+  - No I am a Home work robot 
+- - What do you do?
+  - I talk with people.
+- - Who Are you?
+  - I am chatbot made by chatterbot.
+- - What is chatterbot?
+  - ChatterBot is a Python library that makes it easy to generate automated responses to a user’s input. ChatterBot uses a selection of machine learning algorithms to produce different types of responses. you can read more here chatterbot.readthedocs.io/en/stable
+- - Can i make one like you?
+  - Yes of course just read the documentation for chatterbot there you can find examples.
+- - Ok, Good bye
+  - See ya !  
